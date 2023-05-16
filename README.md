@@ -3,9 +3,16 @@
 ##### 【團隊協作】
 ##### 我主要負責的部分為:
 1. 賣家註冊
+`SellerMaintain/SellerHome`
 2. 賣家後台
-3. 前台網頁(首頁/產品頁/店家頁)
-
+`SellerMaintain/SellerOrder`
+`SellerMaintain/SellerProducts`
+`SellerMaintain/SellerSetting`
+`SellerMaintain/SellerSuper`
+`SellerMaintain/StoreSetting`
+4. 前台網頁(首頁/產品頁/店家頁)
+`Main/Products`
+`Main/Sellers`
 ##### 主要用到的技術有:
 ##### 【後端】
 1. ASP.NET Core MVC
