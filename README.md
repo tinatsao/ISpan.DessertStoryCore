@@ -2,8 +2,8 @@
 
 ##### 【團隊協作】
 ##### 我主要負責的部分為:
-1. 賣家註冊
-`SellerMaintain/SellerHome`
+1. 賣家註冊  
+`SellerMaintain/SellerHome`  
 2. 賣家後台  
 `SellerMaintain/SellerOrder`  
 `SellerMaintain/SellerProducts`  
